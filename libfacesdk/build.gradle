@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+configurations.maybeCreate("default")
+=======
+configurations.maybeCreate("default")
+>>>>>>> 47cf706bed047c48bf3c25742822cbf50a66f0f8
+=======
+configurations.maybeCreate("default")
+>>>>>>> 47cf706bed047c48bf3c25742822cbf50a66f0f8
+artifacts.add("default", file('facesdk.aar'))

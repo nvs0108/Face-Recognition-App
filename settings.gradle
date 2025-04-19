@@ -1,0 +1,57 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "FaceRecognition"
+include ':app'
+include ':libfacesdk'
+=======
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "FaceRecognition"
+include ':app'
+include ':libfacesdk'
+>>>>>>> 47cf706bed047c48bf3c25742822cbf50a66f0f8
+=======
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "FaceRecognition"
+include ':app'
+include ':libfacesdk'
+>>>>>>> 47cf706bed047c48bf3c25742822cbf50a66f0f8
