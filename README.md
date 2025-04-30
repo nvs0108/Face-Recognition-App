@@ -52,8 +52,8 @@ Contributions are welcome! Please follow these steps if you would like to contri
 5. Submit a pull request for review.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open source and free to use.
 
 ## Acknowledgments
 - Thanks to the creators of the face recognition libraries used in this project.
-- Special thanks to [OpenCV](https://opencv.org/) for image processing and [TensorFlow](https://www.tensorflow.org/) for machine learning support (if used).
+- Special thanks to [OpenCV](https://opencv.org/) for image processing and [TensorFlow](https://www.tensorflow.org/) for machine learning support.
